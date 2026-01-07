@@ -45,19 +45,19 @@
     {
       "id": 8,
       "nome": "Evilania Silva",
-      "cargo": "Membra Voluntária",
+      "cargo": "Voluntária",
       "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%207.png"
     },
     {
       "id": 9,
       "nome": "Antônia Sousa",
-      "cargo": "Membra Voluntária",
+      "cargo": "Voluntária",
       "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%209.png"
     },
     {
       "id": 10,
       "nome": "Hermania Queiroz",
-      "cargo": "Membra Voluntária",
+      "cargo": "Voluntária",
       "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%205.png"
     }
   ]
