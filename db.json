@@ -10,55 +10,55 @@
       "id": 2,
       "nome": "Sabrina Sousa",
       "cargo": "Vice Presidente",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=19kvvoL0uvC87RAAst1zf2G24qAzFHXSJ"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%202.png"
     },
     {
       "id": 3,
       "nome": "Emília Parente",
       "cargo": "1° Secretária",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=11C4OeTTRRVpAH2cIpuTm6VdX1KmzMn0O"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%203.png"
     },
     {
       "id": 4,
       "nome": "Ana Oliveira",
       "cargo": "2° Secretária",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=1ZzLkNSBNVvahldvbLdZbp_G2QuC_usb8"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%204.png"
     },
     {
       "id": 5,
       "nome": "Aparecida",
       "cargo": "1° Tesoureira",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=1SujKHxUg1oVVPxu8vIxsOPxfdOa3_2OL"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%2010.png"
     },
     {
       "id": 6,
       "nome": "Tallyta Bacelar",
       "cargo": "1° Conselho Fiscal",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=13laZ2Vp1SygYnX3T6paOeic6e_Wdg0tP"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%206.png"
     },
     {
       "id": 7,
       "nome": "Janaina Ribeiro",
       "cargo": "2° Conselho Fiscal",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=1Q8ONhu3SWR4sCtncm_CIwibjgVoW13e0"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%208.png"
     },
     {
       "id": 8,
       "nome": "Evilania Silva",
       "cargo": "Membra Voluntária",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=1Q8ONhu3SWR4sCtncm_CIwibjgVoW13e0"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%207.png"
     },
     {
       "id": 9,
       "nome": "Antônia Sousa",
       "cargo": "Membra Voluntária",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=1VHbD1lXPqRr_Y7RatTk6XYnXH3gnoWYe"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%209.png"
     },
     {
       "id": 10,
       "nome": "Hermania Queiroz",
       "cargo": "Membra Voluntária",
-      "imagemURL": "https://drive.google.com/uc?export=view&id=1c0i_R_vYdLalkYmCE32bg__BhSP0Vmi3"
+      "imagemURL": "https://raw.githubusercontent.com/JuliaSouzza/api-membros/2351f8768c9ea0e3092be483a4eeb5da9a64c5a0/imagens/img%205.png"
     }
   ]
 }
